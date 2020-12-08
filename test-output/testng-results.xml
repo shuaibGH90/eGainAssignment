@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26140" started-at="2020-12-08T13:33:17Z" finished-at="2020-12-08T13:33:43Z">
+  <suite name="Suite" duration-ms="31273" started-at="2020-12-08T13:46:04Z" finished-at="2020-12-08T13:46:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26140" started-at="2020-12-08T13:33:17Z" finished-at="2020-12-08T13:33:43Z">
+    <test name="LaunchSurveyAdminTests" duration-ms="31273" started-at="2020-12-08T13:46:04Z" finished-at="2020-12-08T13:46:35Z">
       <class name="tests.LaunchSurveyAdminTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="setup" is-config="true" duration-ms="6241" started-at="2020-12-08T13:33:17Z" finished-at="2020-12-08T13:33:23Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="setup" is-config="true" duration-ms="5925" started-at="2020-12-08T13:46:04Z" finished-at="2020-12-08T13:46:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="createSurvey()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="createSurvey" duration-ms="18606" started-at="2020-12-08T13:33:23Z" finished-at="2020-12-08T13:33:42Z">
+        <test-method status="PASS" signature="createSurvey()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="createSurvey" duration-ms="23877" started-at="2020-12-08T13:46:10Z" finished-at="2020-12-08T13:46:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createSurvey -->
-        <test-method status="PASS" signature="closure()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="closure" is-config="true" duration-ms="1227" started-at="2020-12-08T13:33:42Z" finished-at="2020-12-08T13:33:43Z">
+        <test-method status="PASS" signature="closure()[pri:0, instance:tests.LaunchSurveyAdminTest@5e5792a0]" name="closure" is-config="true" duration-ms="1392" started-at="2020-12-08T13:46:34Z" finished-at="2020-12-08T13:46:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
       </class> <!-- tests.LaunchSurveyAdminTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- LaunchSurveyAdminTests -->
+  </suite> <!-- Suite -->
 </testng-results>
