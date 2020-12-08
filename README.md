@@ -6,7 +6,7 @@ Install Eclipse, Maven and TestNG
 
 1. Clone the project using below command
    
- 	git clone url
+ 	git clone https://github.com/shuaibGH90/eGainAssignment.git
 
 2. import the project into eclipse
 
